@@ -1,8 +1,10 @@
 ## Hi there 👋, this is Emilio's Github page.
 
-I work on making interactive theorem provers easier to use, with a particular interested in facilitating HCI and ML research!
+I work on making interactive theorem provers easier to use, with a particular interested in facilitating HCI and ML research! See my [personal page](https://www.irif.fr/~gallego/) for more information about me and my projects.
 
 Don't hesitate to get in touch with me via [Coq's Zulip](https://coq.zulipchat.com/)! Have fun hacking!
+
+My usual pronoums are `he/him/él` tho I'm very happy to be addressed by other pronoums too.
 
 <!--
 **ejgallego/ejgallego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
