@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, this is Emilio's Github page.
+
+I work on making interactive theorem provers easier to use, with a particular interested in facilitating HCI and ML research!
+
+Don't hesitate to get in touch with me via [Coq's Zulip](https://coq.zulipchat.com/)! Have fun hacking!
 
 <!--
 **ejgallego/ejgallego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
