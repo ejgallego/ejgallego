@@ -1,10 +1,10 @@
 ## Hi there 👋, this is Emilio's Github page.
 
-I work on making interactive theorem provers easier to use, with a particular interest in using state-of-the-art programming language techniques to facilitate HCI and ML research! See my [personal page](https://www.irif.fr/~gallego/) for more information about me and my projects.
+I work on making interactive theorem provers easier to use, with a particular interest in using state-of-the-art programming language techniques to facilitate HCI and ML research! See my [personal page](https://x80.org/emilio/) for more information about me and my projects.
 
-Don't hesitate to get in touch with me via [Coq's Zulip](https://coq.zulipchat.com/)! Have fun hacking!
+Don't hesitate to get in touch with me via [Rocq's Zulip](https://rocq-prover.zulipchat.com/)! Have fun hacking!
 
-My usual pronoums are `he/him/él` tho I'm very happy to be addressed by other pronoums too.
+My pronoums are `he/him/él`.
 
 <!--
 **ejgallego/ejgallego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
