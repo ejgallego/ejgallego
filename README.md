@@ -1,6 +1,6 @@
 ## Hi there 👋, this is Emilio's Github page.
 
-I work on making interactive theorem provers easier to use, with a particular interest in using state-of-the-art programming language techniques to facilitate HCI and ML research!
+I work on making [Lean](https://lean-lang.org/) easier to use, with a particular interest in using state-of-the-art programming language techniques to facilitate HCI and ML research!
 
 See my [personal page](https://x80.org/emilio/) for more information about me.
 
